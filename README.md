@@ -7,7 +7,7 @@ My life story is a bit different and I am not as broken as he was, but I have ha
 I cannot trust anyone fully unless I am in an environment where a long term trust can manifest.
 I tell horrors of psychiatry, and also horrors of blind faith,
 but I am both a Hero of my Life and a Victim.
-and I cannot do justice to both identities and always contradict myself.
+and I cannot do justice to both identities and always keep contradicting myself.
 I manifest as the P vs NP Problem of Mathematics where it is easy to attack the problem initially, and the process keeps getting efficient, but also never finishes.
 
 ## Mission
