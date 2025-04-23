@@ -4,3 +4,169 @@ ref.
 https://dota2.fandom.com/wiki/Nature%27s_Prophet
 
 I'll update the macro code after I am done playing.
+
+edit: updated
+
+#NoEnv ; for compatibility with future AutoHOtkey releases
+#UseHook
+#InstallKeybdHook
+#InstallMouseHook
+#SingleInstance, force
+#Persistent
+
+
+; Warning: this script is incomplete. Use at own risk.
+; I am assuming hero slot 1, make neccessary changes if needed.
+; Furion -- the Nature's Prohpet
+; set IronWood Treant to 1, set Dominated creep to 2.
+
+^Numpad0::ExitApp ; Ctrl + 0
+
+
+; You want to teleport to fountain? Good, I've got you covered.
+; I'll save your current loc at {End} so that you can come back anytime.
+; 0 : save current loc to {End} and Teleport to fountain (using w[TELEPORTATION] skill)
+; you have to toggle auto atk off first (before script execution) and then on after the script has finished executing.
+; make sure cursor is centered on Furion with Furion selected.
+
+~Numpad0::
+{
+SetKeyDelay, 10
+SendInput, {F1}{F1}s
+SendInput, {Ctrl down}{End}{Ctrl up}
+SendInput, {Home}
+MouseGetPos, xpos, ypos
+MouseMove, 1038, 537, 0
+SendInput, w
+SendInput, {Click}
+MouseMove, 2*xpos, 2*ypos, 0
+Sleep, 350
+return
+}
+
+; 1 :  Teleport to unit closest to cursor location at {End} using scroll of teleportation
+~Numpad1::
+{
+SetKeyDelay, 10
+SendInput, {F1}s
+SendInput, {End}
+SendInput, t
+SendInput, {Click}
+Sleep, 350
+return
+}
+
+
+; 2 : blink at cursor location
+~Numpad2::
+{
+SetKeyDelay, 10
+SendInput, {F1}s
+SendInput, s{Space}{Click}
+return
+}
+
+; 3 : Soul Ring, repel
+~Numpad3::
+{
+SetKeyDelay, 10
+SendInput, sn!w
+return
+}
+
+; 4 : Dominated creep goes to cursor location to explore there and then returns back to your hero location
+; overridable by "5"
+~Numpad4::
+{  
+SetKeyDelay, 10
+while (!GetKeyState("5")) {
+    SendInput, 1s{Shift down}
+    SendInput, {Click Right}
+    Sleep, 41
+    MouseGetPos, xpos, ypos
+    MouseMove, 1160, 20, 0
+    SendInput, a
+    SendInput, {Shift up}
+    SendInput, {F1}
+    MouseMove, 2*xpos, 2*ypos, 0
+    break
+}
+return
+}
+
+; 5 : Centaur creep stomp at current cursor location and then return to hero location
+~Numpad5::
+{
+SetKeyDelay, 10
+SendInput, 1s{Shift down}
+SendInput, {Click Right}q
+Sleep, 41
+MouseGetPos, xpos, ypos
+MouseMove, 1160, 20, 0
+SendInput, a
+SendInput, {Shift up}
+SendInput, {F1}
+MouseMove, 2*xpos, 2*ypos, 0
+return
+}
+
+; 6 : Dominated creep atacks cursor location (target)
+~Numpad6::
+{
+SetKeyDelay, 10
+SendInput, 1s
+SendInput, a{Click}
+SendInput, {F1}
+return
+}
+
+; 7 : Use creep skill at it's current location and return to hero location
+~Numpad7::
+{
+SetKeyDelay, 10
+SendInput, 2s
+SendInput, q
+Sleep, 41
+MouseGetPos, xpos, ypos 
+MouseMove, 1160, 20, 0
+SendInput, 2a{F1}
+MouseMove, 2*xpos, 2*ypos, 0
+return
+}
+
+
+; IronWood Treant returns to you
+~F12:: 
+{
+SendInput, 11s{F1}    
+MouseGetPos, xpos, ypos 
+MouseMove, 1160, 20, 0
+SendInput, 1a{F1}
+MouseMove, 2*xpos, 2*ypos, 0
+return
+}
+
+; Dominated creep returns to you
+^F12::
+{    
+SendInput, 22s{F1}     
+MouseGetPos, xpos, ypos 
+MouseMove, 1160, 20, 0
+SendInput, 2a{F1}
+MouseMove, 2*xpos, 2*ypos, 0
+return
+}
+
+; bkb at C, blink at Space, phase boots at Z, ghost scepter at X.
+; d bkb, blink at cursor loc, phase, ghost escape
+~d::
+{
+SetKeyDelay, 10
+SendInput, {F1}s
+SendInput, c{Space}zx
+return
+}
+
+; #Warn ; Enable warnings to assist with common errors
+SendMode Input ; Better speed and reliability for newer scripts
+SetWorkingDir %A_ScriptDir% ; Ensures a consistent working directory
