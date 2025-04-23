@@ -1,12 +1,16 @@
-# P vs NP
+# Abolish-psychiatry
 
-Welcome to the P vs NP repository, where a psychiatric-abuse survivor from India became amnesiac, like the Patient HM who was lobotomized.
-Patient HM lived permanent-present tense and had inability to remember anything that happened to him to him after a particular point in time.
-My life story is a bit different and I am not as broken as he was, but I have had to split my identities just to survive.
+Welcome to the Abolish-psychiatry repository, where a psychiatric-abuse survivor from India became selective-Amnesiac, like the Patient HM -- who was lobotomized.
+Patient HM lived permanent-present-tense and had an-inability to remember anything that happened to him after a particular point in time -- the time he was lobotomized.
 
-I cannot trust anyone fully unless I am in an environment where a long term trust can manifest.
-I tell horrors of psychiatry, and also horrors of blind faith,
-but I am both a Hero of my Life and a Victim.
+My life story is a bit different and I am not as broken as he was, but I have had to split my identities while on psychiatric drugs -- just to survive.
+
+I cannot trust anyone fully -- just as a victim cannot trust it's agressor fully -- unless I am in an environment where a long term trust -- for any activity (my intention) -- can manifest.
+I tell horrors of psychiatric abuse, and also horrors of blind faith, while at the same time keep contradicting myself due to the contradiction my split identities create while trying to mend myself.
+
+Rest is unedited :'(
+
+I am both a Hero of my Life and a Victim.
 and I cannot do justice to both identities and always keep contradicting myself.
 I manifest as the P vs NP Problem of Mathematics where it is easy to attack the problem initially, and the process keeps getting efficient, but also never finishes.
 
