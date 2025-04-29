@@ -1,3 +1,5 @@
+P vs NP
+
 # Abolish-psychiatry
 
 Welcome to the Abolish-psychiatry repository, where a psychiatric-abuse survivor from India became selective-Amnesiac, like the Patient HM -- who was lobotomized.
@@ -6,10 +8,11 @@ Patient HM lived permanent-present-tense and had an-inability to remember anythi
 My life story is a bit different and I am not as broken as he was, but I have had to split my identities while on psychiatric drugs -- just to survive.
 
 I cannot trust anyone fully -- just as a victim cannot trust it's agressor fully -- unless I am in an environment where a long term trust -- for any activity (my intention) -- can manifest.
-I tell horrors of psychiatric abuse, and also horrors of blind faith, while at the same time keep contradicting myself due to the contradiction my split identities create while trying to mend myself.
+I tell horrors of psychiatric abuse, and also horrors of blind faith, while at the same time keep contradicting myself due to the (P vs NP ) contradiction my split identities create while trying to mend myself.
 
 I am both a Hero of my Life and a Victim.
 and I cannot do justice to both identities and always keep contradicting myself.
+
 I manifest as the P vs NP Problem of Mathematics where it is easy to attack the problem initially, and the process keeps getting efficient, but also never finishes.
 
 ## Mission
@@ -41,4 +44,9 @@ I want others to respect my experiences and help
 - '/backups': Recoverable snapshots. Well, they will only doom me to a goal that I will never be able to finish.
 
 Join us to help each other rather than line our pockets at the cost of others and build a world of true healing.
+
+Basic Argument of psychiatry as psuedoscience:
+
+
+
 
