@@ -3,8 +3,11 @@ I was an Olympiad Champ (All India Rank, AIR for short, AIR 23 in National Scien
 I was NTSE scholar
 
 My life was ruined due to psychiatry's lie.
+I lost my most promising 10 years to this systems abuse.
+These drugs do not solve any issue, these drugs create the issue.
+Easily managable burnout was turned into an imaginary illness by these quacks.
 Promising help and Delivering harm.
-It is a psuedoscience and this fact is easily proven and also easily dismissed by it's profeeteers.
+Psychiatry is a psuedoscience and this fact is easily proven and also easily dismissed by it's profeeteers.
 The credentialing of self-professed psychiatric experts is self-circular:
 I like to call them "Santa Claus" experts rubberstamped by "Santa Claus" experts.
 The best psychiatrists become anti-psychiatrists for the same reason.
