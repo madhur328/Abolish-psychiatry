@@ -4,5 +4,17 @@ I was NTSE scholar
 
 My life was ruined due to psychiatry's lie.
 Promising help and Delivering harm.
-It is clearly a psuedoscience.
+It is a psuedoscience and this fact is easily proven and also easily dismissed by it's profeeteers.
+The credentialing of self-professed psychiatric experts is self-circular:
+I like to call them "Santa Claus" experts rubberstamped by "Santa Claus" experts.
+The best psychiatrists become anti-psychiatrists for the same reason.
+The business model of these drug-sellers and pill-pushers designed to keep people drugged, drug-dependent and drug-addicted long term to serve as a long-term subscription model that sells torture and sedation.
 I have already proved it with myself as an example.
+My parents were fooled into this idea by quacks that I needed lifetime medicinal support,
+but these doctor's lavish lifestyles needed my financial support.
+Off drugs I thrive without any symptoms.
+
+Many of these quacks in India do not even have valid practicing licences but fool the uneducated people and call themeselves Doctors.
+
+These fake Doctors should be ashamed of themselves.
+High time actions taken against them.
